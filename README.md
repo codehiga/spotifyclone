@@ -1,4 +1,4 @@
-<img style="margin: 0 auto" src="https://im5.ezgif.com/tmp/ezgif-5-bb041a4773.gif" width="400" height="250" />
+<img style="margin: 0 auto" src="https://im5.ezgif.com/tmp/ezgif-5-e2997a43cb.gif" width="400" height="250" />
 
 **`Objetivo com a criação do projeto:`**
 
