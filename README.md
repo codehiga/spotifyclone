@@ -1,6 +1,6 @@
 <img height="100%" width="100%" src="https://firebasestorage.googleapis.com/v0/b/utilitiescodehiga.appspot.com/o/files%2Fspotifycapaclone.png?alt=media&token=be6bfc94-81da-4e28-bbee-078464d597b8" />
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-4227f3fe8c.gif" />
+<img src="https://firebasestorage.googleapis.com/v0/b/utilitiescodehiga.appspot.com/o/files%2Fgifspotifyclone.gif?alt=media&token=30405542-a893-4abb-a811-37f595a29c2b" />
 
 **`Objetivo com a criação do projeto:`**
 
