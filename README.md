@@ -1,4 +1,4 @@
-{{Image}}
+![Gif apresentação da aplicação](https://firebasestorage.googleapis.com/v0/b/utilitiescodehiga.appspot.com/o/files%2Fgifspotifyclone.gif?alt=media&token=266629af-9d82-4d3f-9f81-da8449a796c1)
 
 **`Objetivo com a criação do projeto:`**
 
