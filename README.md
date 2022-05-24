@@ -1,5 +1,3 @@
----
-
 **`Objetivo com a criação do projeto:`**
 
 - Aperfeiçoar habilidades com desenvolvimento front-end a partir de um modelo real.
